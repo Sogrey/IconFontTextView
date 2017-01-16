@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <org.sogrey.iconfont.IconFontTextView
+        android:id="@+id/txt_icon_font"
+        android:layout_width="match_parent"
+        android:textColor="@color/colorAccent"
+        android:textSize="15sp"
+        android:layout_height="match_parent" />
+</LinearLayout>
